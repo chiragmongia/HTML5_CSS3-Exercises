@@ -1,0 +1,32 @@
+form {
+  margin: auto;
+  width: 700px;
+}
+
+input:not(:last-child) {
+	width: 400px;
+  margin-left: 15px;
+  padding: 5px;
+}
+
+label {
+  width: 170px;
+  float: left;
+  text-align: right;
+  margin-top: 6px;
+}
+
+header {
+  border: solid 1px;
+  text-align: center;
+  padding: 25px 0px;
+  color: white;
+  background-color: gray;
+  font-family: Arial;
+  font-size: 25px;
+}
+
+#submit {
+  position: absolute;
+  margin-left: 185px;
+}
