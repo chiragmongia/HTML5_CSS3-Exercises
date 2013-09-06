@@ -96,7 +96,12 @@ article {
 	padding-left: 20px;
 }
 
-div {
+wrapper {
+	display: block;
 	margin: auto;
 	width: 850px;
+}
+
+body {
+	margin: 0px; 
 }
